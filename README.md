@@ -35,5 +35,5 @@
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
-## 🔍 Stats
-[![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark&theme=swift&show_icons=true)](https://github.com/yurimpark/github-readme-stats)
+## 🔍 Stats 🔍
+[![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark&theme=buefy&show_icons=true)](https://github.com/yurimpark/github-readme-stats)
