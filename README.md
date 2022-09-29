@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+</p><br/>
 
-## 🔍 Stats 🔍
+## 📈 Stats 📈
 [![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark&theme=buefy&show_icons=true)](https://github.com/yurimpark/github-readme-stats)
