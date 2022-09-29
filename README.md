@@ -37,3 +37,5 @@
 
 ## 📈 Stats 📈
 [![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark&theme=buefy&show_icons=true)](https://github.com/yurimpark/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimpark&layout=compact)](https://github.com/yurimpark/github-readme-stats)
