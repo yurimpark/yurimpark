@@ -9,7 +9,7 @@
   하루 하루 성장해나가는 모습을 보여드리겠습니다! 😎<br/><br/>
 </p>
 
-## 💪 Stack
+## 🛠️  Tech Stacks 🛠️
 
 ### 📋 Languages
 <p>
