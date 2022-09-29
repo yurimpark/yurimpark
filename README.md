@@ -36,4 +36,4 @@
 </p>
 
 ## 🔍 Stats
-<p>[![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark)](https://github.com/yurimpark/github-readme-stats)</p>
+[![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark)](https://github.com/yurimpark/github-readme-stats)
