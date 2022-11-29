@@ -33,5 +33,4 @@
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 </p><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimpark&theme=dracula&layout=compact)](https://github.com/yurimpark/github-readme-stats)
 [![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimpark&theme=dracula&layout=compact)](https://github.com/yurimpark/github-readme-stats)
