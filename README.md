@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurimpark%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 💓 Nice way to meet me 💓
-<p>
+<!-- <p>
   <a href="https://love-remember.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:yuriming112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+</p> -->
 
 <p>
   안녕하세요. 저는 <b>프론트엔드 개발자</b>를 꿈꾸는 박유림입니다. 🚀<br/>
